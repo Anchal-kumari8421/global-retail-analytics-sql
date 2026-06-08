@@ -10,6 +10,7 @@ Day 2 Completion
   - Products with "Laptop" in name
   - Orders in May 2025
   - Total revenue per product (GROUP BY + SUM)
+
 Day 3 Completion 
 - Learned INNER JOIN (matching rows only)
 - Learned LEFT JOIN (all rows from left table)
@@ -20,3 +21,15 @@ Day 3 Completion
   - Customers with no orders (LEFT JOIN + IS NULL)
   - Orders with product details (3-table JOIN)
   - Combined customer and product names using UNION
+
+Day 4 Completion 
+- Learned COUNT() for counting rows (and COUNT(DISTINCT) for unique values)
+- Learned SUM() for adding numerical values
+- Learned AVG() for calculating averages (handles NULLs automatically)
+- Learned MIN() and MAX() for finding extremes
+- Answered 8 business questions including:
+  - Total customers vs customers with email
+  - Total revenue across all orders
+  - Average electronics price
+  - Highest quantity in a single order
+  - Complete business metrics summary
