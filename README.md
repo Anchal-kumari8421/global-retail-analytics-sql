@@ -33,3 +33,15 @@ Day 4 Completion
   - Average electronics price
   - Highest quantity in a single order
   - Complete business metrics summary
+
+Day 5 Completion 
+- Learned GROUP BY for grouping rows before aggregation
+- Mastered HAVING for filtering groups after aggregation (vs WHERE for rows)
+- Added 3 new customers (Mexico, China, UAE) and 5 new orders
+- Answered 8 business questions including:
+  - Customers per country
+  - Total revenue per product and per customer
+  - Average order quantity per product
+  - Products ordered more than 2 times (HAVING)
+  - Unique customers per product category
+- Key insight: Every non-aggregate column in SELECT must be in GROUP BY
